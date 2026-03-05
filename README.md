@@ -37,7 +37,7 @@ I'm a developer based in Kraków who loves building things that solve real probl
 ---
 
 ### 👩‍💻 Projects I'm working on:
-1. **'X before X'** you might be familiar with the challange where you need to complete an amount of challanges before your next birthday, for me since I am currently 31 it would be 32 before 32. I'm working on a simple Flutter application to make it a little bit more fun and easier to keep track off. So what do I have so far, and what's left to do?
+1. **'X before X'** *you might be familiar with the challange where you need to complete an amount of challanges before your next birthday, for me since I am currently 31 it would be 32 before 32. I'm working on a simple Flutter application to make it a little bit more fun and easier to keep track off. So what do I have so far, and what's left to do?*
    - [x] App is customised using your name and current age.
    - [x] Once age is entered the title gets adjusted to fit your specific case ( for instance 32 before 32 or 20 before 20)
    - [x] You can add any amount of categorised to-do lists for this challange, each of which is automatically generated with the appropiate amount of checkboxes.
