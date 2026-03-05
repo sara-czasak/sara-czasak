@@ -41,7 +41,7 @@ I'm a developer based in Kraków who loves building things that solve real probl
    - [x] App is customised using your name and current age.
    - [x] Once age is entered the title gets adjusted to fit your specific case ( for instance 32 before 32 or 20 before 20)
    - [x] You can add any amount of categorised to-do lists for this challange, each of which is automatically generated with the appropiate amount of checkboxes.
-   - [ ] Finish styling the app to give it a more unique touch and imorove user experiance 
+   - [x] Finish styling the app to give it a more unique touch and imorove user experiance 
 
 *Open to opportunities — feel free to reach out!*
 
