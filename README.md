@@ -13,7 +13,7 @@ I'm a developer based in Kraków who loves building things that solve real probl
 
 ### 📊 GitHub Stats
 
-
+![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sara-czasak&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sara-czasak&theme=dark&hide_border=true)
 
 ---
