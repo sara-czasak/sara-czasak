@@ -11,6 +11,14 @@ I'm a developer based in Kraków who loves building things that solve real probl
 
 ---
 
+### 💻 Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+
+---
+
 ### 📊 GitHub Stats
 
 [![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sara-czasak&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/sara-czasak)
