@@ -56,6 +56,11 @@ I'm a developer based in Kraków who loves building things that solve real probl
    * Add unlimited categorized to-do lists, each auto-generated with the appropriate number of checkboxes
    * **Currently working on:** Finishing app styling and animations to create a unique, polished user experience
 
+5. **Investment calculator**
+   * Calculate profits from investment over time
+   * Uses the compound growth formula
+   * Validates all inputs
+
 ---
 
 *Open to opportunities — feel free to reach out!*
