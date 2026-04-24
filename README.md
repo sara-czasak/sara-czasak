@@ -1,6 +1,6 @@
 # Hi, I'm Sara 👋
 
-I'm a developer based in Kraków who loves building things that solve real problems — from productivity tools to games. I work across Python, JavaScript, and Flutter, and I'm always learning something new.
+I'm a developer based in Kraków who loves building things that solve real problems — from productivity tools to games. I mainly work with Python, but I'm also familiar with JavaScript, and Flutter, and I'm always learning something new.
 
 ---
 
