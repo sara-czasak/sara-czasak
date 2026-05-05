@@ -29,7 +29,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-| 🗂️ **Job Hunt Helper** | Desktop app to track job applications — with statistics dashboard and charts. Built with Python & tkinter. (https://sara-czasak.itch.io/job-hunt-helper-v1 https://sara-czasak.itch.io/job-hunt-helper) |
+| 🗂️ **Job Hunt Helper** | Desktop app to track job applications — with statistics dashboard and charts. Built with Python & tkinter. [Download](https://github.com/sara-czasak/job-application-tracker/releases) |
 | 📸 **Photography Website Redesign** | Rebuilt from scratch in HTML/CSS/JS, then converted to PHP for deployment. Fixed forms, load times, and gallery layout |
 | 📊 **Grade Converter** | Python CLI tool supporting English, Spanish and Polish — converts point grades for multiple students at once |
 | 🎯 **Number Guessing Game** | Dart/Flutter game with easy, normal and hard difficulty modes |
