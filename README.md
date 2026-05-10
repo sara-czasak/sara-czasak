@@ -2,8 +2,6 @@
 
 Developer based in Kraków, building things that solve real problems — from productivity tools to games. I mainly work with Python, but I'm also learning JavaScript, Flutter, and always picking up something new.
 
-🎮 I also publish indie tools and apps on **[itch.io](https://sara-czasak.itch.io/)**!
-
 ---
 
 ### 🔗 Connect with me
