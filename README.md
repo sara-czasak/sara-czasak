@@ -30,9 +30,6 @@ Developer based in Kraków, building things that solve real problems — from pr
 | 🗂️ **Job Hunt Helper** | Desktop app to track job applications — with statistics dashboard and charts. Built with Python & tkinter. [Download FREE](https://github.com/sara-czasak/job-application-tracker/releases) |
 | 🌐 **Gemini Nano Remover** | CLI tool to help you find and delete Gemini Nano from your device. [Download FREE](https://sara-czasak.itch.io/gemini-nano-remover-v1) |
 | 📸 **Photography Website Redesign** | Rebuilt from scratch in HTML/CSS/JS, then converted to PHP for deployment. Fixed forms, load times, and gallery layout |
-| 📊 **Grade Converter** | Python CLI tool supporting English, Spanish and Polish — converts point grades for multiple students at once |
-| 🎯 **Number Guessing Game** | Dart/Flutter game with easy, normal and hard difficulty modes |
-| 🎂 **X before X** | Flutter app for tracking personal challenges — dynamically adjusts to your name, age and goals *(in progress)* |
 | 💰 **Investment Calculator** | Python tool using compound growth formula with full input validation |
 
 ---
