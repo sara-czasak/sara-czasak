@@ -34,6 +34,14 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 ---
 
+### ⏳ Work in Progress Projects
+
+| Project | Description |
+|---|---|
+| ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension to detect upcoming crisis warning signs |
+
+---
+
 ### 📊 GitHub Stats
 
 [![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sara-czasak&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/sara-czasak)
