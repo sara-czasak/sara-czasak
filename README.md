@@ -38,7 +38,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-| ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension to detect upcoming crisis warning signs |
+| ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension and detect upcoming crisis warning signs |
 
 ---
 
