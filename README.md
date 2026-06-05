@@ -31,6 +31,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 | 🌐 **Gemini Nano Remover** | CLI tool to help you find and delete Gemini Nano from your device. [Download FREE](https://sara-czasak.itch.io/gemini-nano-remover-v1) |
 | 📸 **Photography Website** | Rebuilt from scratch in HTML/CSS/JS, then converted to PHP for deployment. Fixed forms, load times, and gallery layout |
 | 💰 **Investment Calculator** | Python tool using compound growth formula with full input validation |
+| ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension and detect upcoming crisis warning signs |
 
 ---
 
@@ -38,7 +39,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-| ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension and detect upcoming crisis warning signs |
+
 
 ---
 
