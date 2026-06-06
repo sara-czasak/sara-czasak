@@ -39,7 +39,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-
+| 🌐 **Personal Portfolio Page** | Webpage featuring my skills and projects |
 
 ---
 
