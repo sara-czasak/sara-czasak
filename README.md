@@ -1,6 +1,7 @@
 # Hi, I'm Sara 👋
 
 Developer based in Kraków, building things that solve real problems — from productivity tools to games. I mainly work with Python, but I'm also learning JavaScript, Flutter, and always picking up something new.
+[CHECK OUT MY WEBSITE](https://sara-czasak.onrender.com/)
 
 ---
 
@@ -27,6 +28,8 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
+
+| 🌐 **Personal Portfolio Page** | Webpage featuring my skills and projects [CHECK OUT MY WEBSITE](https://sara-czasak.onrender.com/)|
 | ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension and detect upcoming crisis warning signs [Download FREE](https://sara-czasak.itch.io/body-scan-log) |
 | 🗂️ **Job Hunt Helper** | Desktop app to track job applications — with statistics dashboard and charts. Built with Python & tkinter. [Download FREE](https://github.com/sara-czasak/job-application-tracker/releases) |
 | 🌐 **Gemini Nano Remover** | CLI tool to help you find and delete Gemini Nano from your device. [Download FREE](https://sara-czasak.itch.io/gemini-nano-remover-v1) |
@@ -39,7 +42,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-| 🌐 **Personal Portfolio Page** | Webpage featuring my skills and projects |
+
 
 ---
 
