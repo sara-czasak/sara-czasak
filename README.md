@@ -43,7 +43,6 @@ Developer based in Kraków, building things that solve real problems — from pr
 |---|---|
 | 𖡎 **Symptom Tracker** | Python GUI app to help track mental health symptoms |
 
-
 ---
 
 ### 📊 GitHub Stats
