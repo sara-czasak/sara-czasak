@@ -42,7 +42,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-
+| ✍️ **Personal Blog** | Personal blog page where I plan to post short articles documenting my programming journey |
 ---
 
 ### 📊 GitHub Stats
