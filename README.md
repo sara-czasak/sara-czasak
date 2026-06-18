@@ -30,6 +30,7 @@ Developer based in Kraków, building things that solve real problems — from pr
 |---|---|
 | 🌐 **Personal Portfolio Page** | Webpage featuring my skills and projects [Check out my website here](https://sara-czasak.onrender.com/) |
 | ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension and detect upcoming crisis warning signs [Download FREE](https://sara-czasak.itch.io/body-scan-log) |
+| 𖡎 **Symptom Tracker** | Python GUI app to help track mental health symptoms |
 | 🗂️ **Job Hunt Helper** | Desktop app to track job applications — with statistics dashboard and charts. Built with Python & tkinter. [Download FREE](https://github.com/sara-czasak/job-application-tracker/releases) |
 | 🌐 **Gemini Nano Remover** | CLI tool to help you find and delete Gemini Nano from your device. [Download FREE](https://sara-czasak.itch.io/gemini-nano-remover-v1) |
 | 📸 **Photography Website** | Rebuilt from scratch in HTML/CSS/JS, then converted to PHP for deployment. Fixed forms, load times, and gallery layout |
@@ -41,7 +42,6 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 | Project | Description |
 |---|---|
-| 𖡎 **Symptom Tracker** | Python GUI app to help track mental health symptoms |
 
 ---
 
