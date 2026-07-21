@@ -37,14 +37,13 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 ---
 
-### ⏳ Work in Progress Projects
+### 🐍 My pypi packages
+| Name | Description | how to pip install |
+|---|---|---|
+| 📅 **date-formatter-spcm** | A simple datetime package wrapper to make formatting dates easier | [pip install date_formatter_spcm](https://pypi.org/project/date-formatter-spcm/) |
 
-| Project | Description |
-|---|---|
 ---
 
-### 🎓 Currently learning
-[ ] Kotlin
 
 ### 📊 GitHub Stats
 
