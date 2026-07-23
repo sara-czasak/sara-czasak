@@ -5,6 +5,11 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 ---
 
+## Certifications
+[![PCET Certified](https://images.credly.com/size/220x220/images/9293d9d9-2a38-4387-9a0a-3e36528a650b/blob)](https://www.credly.com/badges/7a536cd9-4624-4cb5-8ae0-e95f32b63a47)
+
+---
+
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-paulina-czasak-b8643b398)
