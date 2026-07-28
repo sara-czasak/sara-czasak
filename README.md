@@ -49,6 +49,13 @@ Developer based in Kraków, building things that solve real problems — from pr
 
 ---
 
+### 🚧 Work in progress
+| Name | Description | contributors needed |
+|---|---|---|
+| 📦 **py_simple** | A package dedicated to beginner pythonistas to help make complex things simple | ✅ [CONTRIBUTING.md](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md) |
+
+---
+
 
 ### 📊 GitHub Stats
 
