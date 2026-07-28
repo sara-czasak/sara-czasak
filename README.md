@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1572B6&height=180&section=header&text=Hi,%20I'm%20Sara%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-Developer based in Kraków, building things that solve real problems — from productivity tools to games.
-I mainly work with **Python**, and I'm also picking up **JavaScript**, **Flutter**, and whatever comes next.
+Developer based in Kraków and I mainly work with **Python**. I love building things that solve real problems — from productivity tools to mental health resources. I thrive on turning complex logic into accessible, user-friendly applications.
+
 
 [![Website](https://img.shields.io/badge/VISIT_MY_WEBSITE-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sara-czasak.onrender.com/)
 
