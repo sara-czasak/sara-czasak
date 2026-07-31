@@ -87,9 +87,7 @@ Developer based in Kraków and I mainly work with **Python**. I love building th
 
 <br>
 
-[![py_simple repo](https://github-readme-stats.vercel.app/api/pin/?username=sara-czasak&repo=py_simple&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/sara-czasak/py_simple)
-
-[![py_simple docs](https://sara-czasak.github.io/py_simple/)]
+[![Docs](https://img.shields.io/badge/docs-py__simple-0A66C2?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://sara-czasak.github.io/py_simple/)
 
 ![Repo Size](https://img.shields.io/github/repo-size/sara-czasak/py_simple?style=flat-square&color=0A66C2&label=repo%20size)
 ![Last Commit](https://img.shields.io/github/last-commit/sara-czasak/py_simple?style=flat-square&color=1572B6&label=last%20commit)
