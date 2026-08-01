@@ -71,9 +71,10 @@ Developer based in Kraków and I mainly work with **Python**. I love building th
 
 </div>
 
-| Name | Description | Install | Link |
-|---|---|---|---|
-| 📅 **date-formatter-spcm** | A simple datetime wrapper to make formatting dates easier | `pip install date-formatter-spcm` | [PyPI](https://pypi.org/project/date-formatter-spcm/) |
+| Name | Description | Install | Docs | Link |
+|---|---|---|---|---|
+| 📅 **date-formatter-spcm** | A simple datetime wrapper to make formatting dates easier | `pip install date-formatter-spcm` | - | [PyPI](https://pypi.org/project/date-formatter-spcm/) |
+| 🌯 **py-simple-wrap** | A package to make complex python functionality simple | `pip install py-simple-wrap` | [Docs](https://sara-czasak.github.io/py_simple/) | [Pypi](https://pypi.org/project/py-simple-wrap/) | 
 
 ---
 
