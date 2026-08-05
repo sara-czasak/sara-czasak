@@ -88,7 +88,7 @@ Developer based in Kraków and I mainly work with **Python**. I love building th
 
 <br>
 
-[![Docs](https://img.shields.io/badge/docs-py__simple-0A66C2?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://sara-czasak.github.io/py_simple/)
+[![Docs](https://img.shields.io/badge/docs-py__simple-0A66C2?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://sara-czasak.github.io/py-simple-wrap/)
 
 ![Repo Size](https://img.shields.io/github/repo-size/sara-czasak/py_simple?style=flat-square&color=0A66C2&label=repo%20size)
 ![Last Commit](https://img.shields.io/github/last-commit/sara-czasak/py_simple?style=flat-square&color=1572B6&label=last%20commit)
