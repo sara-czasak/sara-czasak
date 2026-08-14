@@ -128,18 +128,6 @@ Beginner-friendly wrapper modules that turn multi-step Python tasks into one-lin
 
 <div align="center">
 
-### 📊 Community Impact & Activity
-*(Showing that I love to build, collaborate, and merge!)*
-
-<img src="https://github-readme-stats.vercel.app/api?username=sara-czasak&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=sara-czasak&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💼 Open to opportunities — feel free to reach out!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0A66C2&height=100&section=footer" width="100%"/>
