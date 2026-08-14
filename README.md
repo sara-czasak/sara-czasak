@@ -122,7 +122,7 @@ Beginner-friendly wrapper modules that turn multi-step Python tasks into one-lin
 
 | Name | Description | Contributors Needed | Link |
 |---|---|---|---|
-| 📦 **py_simple** | A package dedicated to beginner pythonistas, helping make complex things simple | ✅ Yes | [CONTRIBUTING.md](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md) |
+| 📦 **py-simple-wrap** | A package dedicated to beginner pythonistas, helping make complex things simple | ✅ Yes | [CONTRIBUTING.md](https://github.com/sara-czasak/py-simple-wrap/blob/main/CONTRIBUTING.md) |
 
 ---
 
