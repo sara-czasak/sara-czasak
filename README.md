@@ -1,57 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1572B6&height=180&section=header&text=Hi,%20I'm%20Sara%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sara+👋;Python+·+JavaScript+·+Flutter;Building+py-simple-wrap;Open+to+opportunities!&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true)
 
-Developer based in Kraków and I mainly work with **Python**. I love building things that solve real problems — from productivity tools to mental health resources. I thrive on turning complex logic into accessible, user-friendly applications.
+Developer based in Kraków who loves practical projects and learning new things.
+I love turning complex logic into accessible, user-friendly applications — from productivity tools to mental health resources.
 
+[![Website](https://img.shields.io/badge/VISIT_MY_WEBSITE-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://sara-czasak.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/sara-paulina-czasak-b8643b398)
+[![itch.io](https://img.shields.io/badge/itch.io-161B22?style=for-the-badge&logo=itchdotio&logoColor=58A6FF)](https://sara-czasak.itch.io/)
+[![TikTok](https://img.shields.io/badge/TikTok-161B22?style=for-the-badge&logo=tiktok&logoColor=58A6FF)](https://tiktok.com/@sara_czasak)
 
-[![Website](https://img.shields.io/badge/VISIT_MY_WEBSITE-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sara-czasak.onrender.com/)
+<br>
 
-</div>
+### 🛠️ Languages, Frameworks & Tools
 
----
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,flutter,dart,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-<div align="center">
+<br>
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/sara-czasak/sara-czasak/output/github-contribution-grid-snake.svg)
+
+<br>
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sara-czasak&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-czasak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+![Streak Stats](https://streak-stats.demolab.com?user=sara-czasak&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+[![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=161B22&logoColor=58A6FF&logo=github&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsara-czasak%2Fprofile-views)]()
+
+<br>
+
+### 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sara-czasak&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)
+
+<br>
 
 ### 🎓 Certifications
 
-[![PCET Certified](https://img.shields.io/badge/PCET_Certified-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/7a536cd9-4624-4cb5-8ae0-e95f32b63a47)
+[![PCET Certified](https://img.shields.io/badge/PCET_Certified-161B22?style=for-the-badge&logo=python&logoColor=58A6FF)](https://www.credly.com/badges/7a536cd9-4624-4cb5-8ae0-e95f32b63a47)
 
-</div>
-
----
-
-<div align="center">
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-paulina-czasak-b8643b398)
-[![itch.io](https://img.shields.io/badge/itch.io-1572B6?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sara-czasak.itch.io/)
-[![TikTok](https://img.shields.io/badge/TikTok-003F87?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@sara_czasak)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2E86C1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0A66C2?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 ### 🚀 Projects
-
-</div>
 
 | Project | Description | Link |
 |---|---|---|
@@ -63,73 +59,43 @@ Developer based in Kraków and I mainly work with **Python**. I love building th
 | 📸 **Photography Website** | Rebuilt from scratch in HTML/CSS/JS, then converted to PHP for deployment. Fixed forms, load times, and gallery layout | — |
 | 💰 **Investment Calculator** | Python tool using the compound growth formula, with full input validation | — |
 
----
-
-<div align="center">
+<br>
 
 ### 📦 My PyPI Packages
 
-</div>
+| Name | Description | Install | Link |
+|---|---|---|---|
+| 📅 **date-formatter-spcm** | A simple datetime wrapper to make formatting dates easier | `pip install date-formatter-spcm` | [PyPI](https://pypi.org/project/date-formatter-spcm/) |
 
-| Name | Description | Install | Docs | Link |
-|---|---|---|---|---|
-| 📅 **date-formatter-spcm** | A simple datetime wrapper to make formatting dates easier | `pip install date-formatter-spcm` | - | [PyPI](https://pypi.org/project/date-formatter-spcm/) |
-| 🌯 **py-simple-wrap** | A package to make complex python functionality simple | `pip install py-simple-wrap` | [Docs](https://sara-czasak.github.io/py_simple/) | [Pypi](https://pypi.org/project/py-simple-wrap/) | 
-
----
-
-<div align="center">
+<br>
 
 ### 🌟 Project Spotlight: `py_simple`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1572B6&height=3&width=500" width="500"/>
-
 *My mission to make Python's complex features accessible to everyone.*
 
-<br>
-
-[![Docs](https://img.shields.io/badge/docs-py__simple-0A66C2?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://sara-czasak.github.io/py-simple-wrap/)
-
-![Repo Size](https://img.shields.io/github/repo-size/sara-czasak/py_simple?style=flat-square&color=0A66C2&label=repo%20size)
-![Last Commit](https://img.shields.io/github/last-commit/sara-czasak/py_simple?style=flat-square&color=1572B6&label=last%20commit)
-![License](https://img.shields.io/github/license/sara-czasak/py_simple?style=flat-square&color=2E86C1&label=license)
-
-<br>
-
-**What it does**
+[![Repo Size](https://img.shields.io/github/repo-size/sara-czasak/py_simple?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)]()
+[![Last Commit](https://img.shields.io/github/last-commit/sara-czasak/py_simple?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)]()
+[![License](https://img.shields.io/github/license/sara-czasak/py_simple?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)]()
 
 Beginner-friendly wrapper modules that turn multi-step Python tasks into one-line calls — file handling, unit conversion, and more to come — so newer developers can focus on building instead of boilerplate.
 
-<br>
-
 **Join the Community!**
 
-[![Contributors](https://img.shields.io/github/contributors/sara-czasak/py_simple?style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/sara-czasak/py_simple/graphs/contributors)
-[![Open Issues](https://img.shields.io/github/issues/sara-czasak/py_simple?style=for-the-badge&color=1572B6&logo=github&logoColor=white)](https://github.com/sara-czasak/py_simple/issues)
-[![Good First Issues](https://img.shields.io/github/issues/sara-czasak/py_simple/good%20first%20issue?style=for-the-badge&color=2E86C1&logo=github&logoColor=white)](https://github.com/sara-czasak/py_simple/labels/good%20first%20issue)
+[![Contributors](https://img.shields.io/github/contributors/sara-czasak/py_simple?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/graphs/contributors)
+[![Open Issues](https://img.shields.io/github/issues/sara-czasak/py_simple?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/issues)
+[![Good First Issues](https://img.shields.io/github/issues/sara-czasak/py_simple/good%20first%20issue?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/labels/good%20first%20issue)
+[![Contribute](https://img.shields.io/badge/READ_THE_CONTRIBUTING_GUIDE-161B22?style=for-the-badge&logo=git&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md)
 
-[![Contribute](https://img.shields.io/badge/READ_THE_CONTRIBUTING_GUIDE-003F87?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md)
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 ### 🚧 Work In Progress
 
-</div>
-
 | Name | Description | Contributors Needed | Link |
 |---|---|---|---|
-| 📦 **py-simple-wrap** | A package dedicated to beginner pythonistas, helping make complex things simple | ✅ Yes | [CONTRIBUTING.md](https://github.com/sara-czasak/py-simple-wrap/blob/main/CONTRIBUTING.md) |
+| 📦 **py_simple** | A package dedicated to beginner pythonistas, helping make complex things simple | ✅ Yes | [CONTRIBUTING.md](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md) |
 
----
-
-<div align="center">
+<br>
 
 ### 💼 Open to opportunities — feel free to reach out!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0A66C2&height=100&section=footer" width="100%"/>
 
 </div>
