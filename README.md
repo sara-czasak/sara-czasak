@@ -14,9 +14,19 @@ I love turning complex logic into accessible, user-friendly applications — fro
 
 ### 🛠️ Languages, Frameworks & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,js,html,css,bootstrap,flutter,dart,git,github,vscode,pycharm&theme=dark)](https://skillicons.dev)
-
-<br>
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://github.com/sara-czasak/py_simple)
+[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![Dart](https://skillicons.dev/icons?i=dart&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/sara-czasak?tab=repositories)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm&theme=dark)](https://github.com/sara-czasak?tab=repositories)
 
 ### 🖁 Connect with me
 
