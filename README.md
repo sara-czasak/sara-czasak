@@ -31,8 +31,7 @@ I love turning complex logic into accessible, user-friendly applications — fro
 
 ![Streak Stats](https://streak-stats.demolab.com?user=sara-czasak&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-[![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=161B22&logoColor=58A6FF&logo=github&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsara-czasak%2Fprofile-views)]()
-
+![Profile Views](https://komarev.com/ghpvc/?username=sara-czasak&color=161B22&style=for-the-badge&label=PROFILE+VIEWS)
 <br>
 
 ### 🏆 Trophies
