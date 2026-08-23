@@ -14,7 +14,14 @@ I love turning complex logic into accessible, user-friendly applications — fro
 
 ### 🛠️ Languages, Frameworks & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,flutter,dart,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,js,html,css,bootstrap,flutter,dart,git,github,vscode,pycharm&theme=dark)](https://skillicons.dev)
+
+<br>
+
+### 🖁 Connect with me
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sara-paulina-czasak-b8643b398)
+[![Devto](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/saraczasak)
 
 <br>
 
