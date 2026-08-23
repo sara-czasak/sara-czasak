@@ -51,12 +51,6 @@ I love turning complex logic into accessible, user-friendly applications — fro
 ![Profile Views](https://komarev.com/ghpvc/?username=sara-czasak&color=161B22&style=for-the-badge&label=PROFILE+VIEWS)
 <br>
 
-### 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sara-czasak&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)
-
-<br>
-
 ### 🎓 Certifications
 
 [![PCET Certified](https://img.shields.io/badge/PCET_Certified-161B22?style=for-the-badge&logo=python&logoColor=58A6FF)](https://www.credly.com/badges/7a536cd9-4624-4cb5-8ae0-e95f32b63a47)
