@@ -12,9 +12,27 @@ I love turning complex logic into accessible, user-friendly applications — fro
 
 <br>
 
+### 🌟 Featured Project: `py-simple-wrap`
+
+*A beginner-friendly Python wrapper that eliminates complex syntax so newer developers can focus on building instead of boilerplate.*
+
+**From 0 to 66 contributors and 171 merged pull requests in under two months** — built, launched, and grown as an open-source project from scratch.
+
+[![Stars](https://img.shields.io/github/stars/sara-czasak/py-simple-wrap?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap/stargazers)
+[![Forks](https://img.shields.io/github/forks/sara-czasak/py-simple-wrap?style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap/network/members)
+[![Contributors](https://img.shields.io/github/contributors/sara-czasak/py-simple-wrap?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/sara-czasak/py-simple-wrap?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap/commits/main)
+
+[![Visit Repo](https://img.shields.io/badge/VISIT_THE_REPO-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap)
+[![Live Docs](https://img.shields.io/badge/LIVE_DOCS-161B22?style=for-the-badge&logo=readthedocs&logoColor=58A6FF)](https://sara-czasak.github.io/py-simple-wrap/)
+[![Open Issues](https://img.shields.io/github/issues/sara-czasak/py-simple-wrap?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap/issues)
+[![Good First Issues](https://img.shields.io/github/issues/sara-czasak/py-simple-wrap/good%20first%20issue?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py-simple-wrap/labels/good%20first%20issue)
+
+<br>
+
 ### 🛠️ Languages, Frameworks & Tools
 
-[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://github.com/sara-czasak/py_simple)
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://github.com/sara-czasak/py-simple-wrap)
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://github.com/sara-czasak?tab=repositories)
 [![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://github.com/sara-czasak?tab=repositories)
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://github.com/sara-czasak?tab=repositories)
@@ -57,17 +75,17 @@ I love turning complex logic into accessible, user-friendly applications — fro
 
 <br>
 
-### 🚀 Projects
+### 🚀 More Projects
 
-| Project | Description | Link |
+| Project | What it shows | Link |
 |---|---|---|
-| 🌐 **Personal Portfolio Page** | Webpage featuring my skills and projects | [Visit](https://sara-czasak.onrender.com/) |
-| ⛶ **Body Scan Log** | Python GUI tool to gather data on body tension and detect upcoming crisis warning signs | [Download](https://sara-czasak.itch.io/body-scan-log) |
-| 𖡎 **Symptom Tracker** | Python GUI app to help track mental health symptoms | — |
-| 🗂️ **Job Hunt Helper** | Desktop app to track job applications, with a statistics dashboard and charts. Built with Python & tkinter | [Download](https://github.com/sara-czasak/job-application-tracker/releases) |
-| 🧹 **Gemini Nano Remover** | CLI tool to help you find and delete Gemini Nano from your device | [Download](https://sara-czasak.itch.io/gemini-nano-remover-v1) |
-| 📸 **Photography Website** | Rebuilt from scratch in HTML/CSS/JS, then converted to PHP for deployment. Fixed forms, load times, and gallery layout | — |
-| 💰 **Investment Calculator** | Python tool using the compound growth formula, with full input validation | — |
+| 🗂️ **Job Hunt Helper** | Desktop app (Python/tkinter) with a stats dashboard and charts — full CRUD + data viz | [Download](https://github.com/sara-czasak/job-application-tracker/releases) |
+| ⛶ **Body Scan Log** | Python GUI tool that gathers data on body tension and flags early crisis warning signs — designing for sensitive, real-world use cases | [Download](https://sara-czasak.itch.io/body-scan-log) |
+| 𖡎 **Symptom Tracker** | Python GUI app for tracking mental health symptoms — health-domain UX with persistent data | — |
+| 🧹 **Gemini Nano Remover** | CLI tool to locate and remove Gemini Nano from a device — comfortable working below the GUI layer | [Download](https://sara-czasak.itch.io/gemini-nano-remover-v1) |
+| 📸 **Photography Website** | Rebuilt a legacy site in HTML/CSS/JS, then ported it to PHP for deployment — fixed broken forms, load times, and gallery layout | — |
+| 💰 **Investment Calculator** | Compound-growth calculator with full input validation — clean math and defensive coding | — |
+| 🌐 **Personal Portfolio Page** | Webpage showcasing my skills and projects, deployed on Render | [Visit](https://sara-czasak.onrender.com/) |
 
 <br>
 
@@ -75,34 +93,7 @@ I love turning complex logic into accessible, user-friendly applications — fro
 
 | Name | Description | Install | Link |
 |---|---|---|---|
-| 📅 **date-formatter-spcm** | A simple datetime wrapper to make formatting dates easier | `pip install date-formatter-spcm` | [PyPI](https://pypi.org/project/date-formatter-spcm/) |
-
-<br>
-
-### 🌟 Project Spotlight: `py_simple`
-
-*My mission to make Python's complex features accessible to everyone.*
-
-[![Repo Size](https://img.shields.io/github/repo-size/sara-czasak/py_simple?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)]()
-[![Last Commit](https://img.shields.io/github/last-commit/sara-czasak/py_simple?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)]()
-[![License](https://img.shields.io/github/license/sara-czasak/py_simple?style=for-the-badge&color=161B22&labelColor=161B22&logoColor=58A6FF)]()
-
-Beginner-friendly wrapper modules that turn multi-step Python tasks into one-line calls — file handling, unit conversion, and more to come — so newer developers can focus on building instead of boilerplate.
-
-**Join the Community!**
-
-[![Contributors](https://img.shields.io/github/contributors/sara-czasak/py_simple?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/graphs/contributors)
-[![Open Issues](https://img.shields.io/github/issues/sara-czasak/py_simple?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/issues)
-[![Good First Issues](https://img.shields.io/github/issues/sara-czasak/py_simple/good%20first%20issue?style=for-the-badge&color=161B22&logo=github&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/labels/good%20first%20issue)
-[![Contribute](https://img.shields.io/badge/READ_THE_CONTRIBUTING_GUIDE-161B22?style=for-the-badge&logo=git&logoColor=58A6FF)](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md)
-
-<br>
-
-### 🚧 Work In Progress
-
-| Name | Description | Contributors Needed | Link |
-|---|---|---|---|
-| 📦 **py_simple** | A package dedicated to beginner pythonistas, helping make complex things simple | ✅ Yes | [CONTRIBUTING.md](https://github.com/sara-czasak/py_simple/blob/main/CONTRIBUTING.md) |
+| 📅 **date-formatter-spcm** | A simple datetime wrapper to make formatting dates easier — published and pip-installable | `pip install date-formatter-spcm` | [PyPI](https://pypi.org/project/date-formatter-spcm/) |
 
 <br>
 
