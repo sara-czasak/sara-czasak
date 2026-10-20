@@ -61,6 +61,7 @@ I love turning complex logic into accessible, user-friendly applications — fro
 | ⛶ **Body Scan Log**            | Python GUI tool that gathers data on body tension and flags early crisis warning signs — designing for sensitive, real-world use cases | [Download](https://sara-czasak.itch.io/body-scan-log)                       |
 | 🧹 **Gemini Nano Remover**     | CLI tool to locate and remove Gemini Nano from a device — comfortable working below the GUI layer                                      | [Download](https://sara-czasak.itch.io/gemini-nano-remover-v1)              |
 | 🌐 **Personal Portfolio Page** | Webpage showcasing my skills and projects, deployed on Render                                                                          | [Visit](https://sara-czasak.onrender.com/)                                  |
+| 🎶 **Audio Trimmer** | A simple web app to help you trim audio files | [Visit](https://audio-trimmer.streamlit.app/) |
 
 <br>
 
